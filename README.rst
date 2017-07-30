@@ -3,12 +3,12 @@ instructor (Python struct for humans)
 
 Inspired by:
 
-* [structs](https://github.com/jaysonsantos/structs)
-* [suitcase](https://github.com/digidotcom/python-suitcase)
-* [starstruct](https://github.com/sprout42/StarStruct)
-* [cstruct](https://github.com/andreax79/python-cstruct)
-* [destruct](https://github.com/drdaeman/destruct)
-* [ezstruct](https://github.com/matthewg/EzStruct)
+* `structs <https://github.com/jaysonsantos/structs>`_
+* `suitcase <https://github.com/digidotcom/python-suitcase>`_
+* `starstruct <https://github.com/sprout42/StarStruct>`_
+* `cstruct <https://github.com/andreax79/python-cstruct>`_
+* `destruct <https://github.com/drdaeman/destruct>`_
+* `ezstruct <https://github.com/matthewg/EzStruct>`_
 
 Tested for python 2.7.
 
