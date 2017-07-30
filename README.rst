@@ -12,9 +12,26 @@ Inspired by:
 
 Tested for python 2.7.
 
+Installation
+------------
+
+Instructor can be installed with pip:
+
+.. code-block:: shell
+
+    $ pip install instructor
+
+or directly from the source code:
+
+.. code-block:: shell
+
+    $ git clone https://github.com/pikhovkin/instructor.git
+    $ cd instructor
+    $ python setup.py install
+
 Usage example
 -------------
-::
+.. code-block:: python
 
     from instructor.model import InstructorModel
     from instructor import fields
