@@ -2,6 +2,7 @@ instructor (Python struct for humans)
 =====================================
 
 Inspired by:
+
 * [structs](https://github.com/jaysonsantos/structs)
 * [suitcase](https://github.com/digidotcom/python-suitcase)
 * [starstruct](https://github.com/sprout42/StarStruct)
